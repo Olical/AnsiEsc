@@ -1,7 +1,8 @@
 ANSI Highlighting
 =================
 
-> This is @Olical's fork in which I attempt to blend the ANSI colouring into the current colour scheme you're using. As opposed to switching to an entirely different colour scheme, I want Clojure + ANSI colour codes, not one or the other.
+> This is @Olical's fork (hack) for [Conjure](https://github.com/Olical/conjure) in which I attempt to blend the ANSI colouring into the current colour scheme you're using. As opposed to switching to an entirely different colour scheme, I want Clojure + ANSI colour codes, not one or the other.
+> It's not perfect, but it's pretty good! (TM)
 
 This is github page of this plugin
 http://www.drchip.org/astronaut/vim/index.html#ANSIESC
